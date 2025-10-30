@@ -58,3 +58,5 @@ the interface to their liking.
 Additionally, Notification Settings allow users to opt in or out of receiving alerts for breaking news and updates. At the bottom of the page, there is a Help Center link that takes users to 
 FAQs and customer assistance resources. To finalize any changes, the user can click the Save Changes button or cancel them.
 
+YouTube Link for Video Demo
+https://youtube.com/shorts/Hvks4BLMr6M?si=mLxwNHLEjNi7tgeh
