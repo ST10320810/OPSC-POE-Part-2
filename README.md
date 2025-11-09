@@ -60,3 +60,5 @@ FAQs and customer assistance resources. To finalize any changes, the user can cl
 
 Demo Video of fully functional News App
 https://youtu.be/yIqZ65hQ33I?si=i4hgzdqhtSmmW2FA
+
+Please feel free to download our APK and Test it out if you want. Youll find it at releases
